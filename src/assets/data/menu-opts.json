@@ -1,0 +1,16 @@
+[{
+        "icon": "logo-apple",
+        "name": "Apple",
+        "redirectTo": "/apple"
+    },
+    {
+        "icon": "logo-amazon",
+        "name": "Amazon",
+        "redirectTo": "/amazon"
+    },
+    {
+        "icon": "logo-google",
+        "name": "Google",
+        "redirectTo": "/google"
+    }
+]
